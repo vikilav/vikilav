@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Viktória
+# 👋 Hi, I’m Viktória
 - 👀 I’m interested in marketing and agriculture 🌱 
 - 📫 How to reach me
   - [LinkedIn](linkedin.com/in/viktoria-lavrinczova)

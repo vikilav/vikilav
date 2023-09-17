@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Viktória
-- 👀 I’m interested in marketing and agriculture
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in marketing and agriculture 🌱 
 - 📫 How to reach me
   - [LinkedIn](linkedin.com/in/viktoria-lavrinczova)
   - [mail](viktorialavrinczova@gmail.com)
